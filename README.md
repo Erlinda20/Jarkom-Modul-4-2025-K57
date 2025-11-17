@@ -20,7 +20,11 @@ Dan kelompokkan persubnet dan menjumlah dengan hostnya untuk mendapatkan netmask
 
 Berikut adalah tabel rute yang dijalankan dan sudah di hitung untuk jumlah host sesuai subnet.
 
-![soal_2](images/pohontree.png)
+![soal_2](images/rute.png)
 
 Lalu untuk pesebaran IP dengan perhitungan pohon. Dan untuk perhitungannya dimulai dari netmask terkecil.
+
+![soal_3](images/pohontree.png)
+
+Dalam metode VLSM, syarat utama adalah mengurutkan seluruh kebutuhan subnet berdasarkan jumlah host yang paling banyak hingga yang paling sedikit. Subnet terbesar harus ditempatkan lebih dulu agar mendapatkan ruang alamat yang cukup sebelum dialokasikan untuk subnet lain yang lebih kecil.
 
