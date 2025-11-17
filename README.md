@@ -47,3 +47,17 @@ Lalu membuat konfigurasi agar bisa saling memanggil ping antar subnet maupun di 
 ### Testing
 
 ![soal_1](images/testing.png)
+
+- testing router ke router 
+
+![soal_1](images/router.png)
+
+- testing router ke pc
+
+![soal_1](images/routerpc.png)
+
+- testing pc ke pc
+
+![soal_1](images/pcpc.png)
+
+
