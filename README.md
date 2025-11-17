@@ -20,7 +20,7 @@ Dan kelompokkan persubnet dan menjumlah dengan hostnya untuk mendapatkan netmask
 
 Berikut adalah tabel rute yang dijalankan dan sudah di hitung untuk jumlah host sesuai subnet.
 
-![soal_2](images/pohon tree.png)
+![soal_2](images/pohontree.png)
 
 Lalu untuk pesebaran IP dengan perhitungan pohon. Dan untuk perhitungannya dimulai dari netmask terkecil.
 
