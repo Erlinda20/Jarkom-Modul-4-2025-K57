@@ -46,3 +46,4 @@ Lalu membuat konfigurasi agar bisa saling memanggil ping antar subnet maupun di 
 
 ### Testing
 
+![soal_1](images/testing.png)
